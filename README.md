@@ -6,21 +6,31 @@
 
 <p align="left">Not only in the web, but I have also involved myself in cross-platform app development using Flutter</p>
 </br>
-<h3>Language that I use :</h3>
+
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-%23F24E1E.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+
+</br>
+
+# Language that I use :
 </br>
 <div class="cont" style="display:flex; flex-direction:column;">
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamaCoded&layout=compact&exclude_repo=github-readme-stats)"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LamaCoded&theme=horizon"/></div>
 
-<div class="container" style="display:flex; aspect-ratio:4:3">
-<img style="margin:10px; max-width:40px; max-height:40px" src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon.png" width="70px"/>
 
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="70px"/>
-
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWXoi7cy3HEsFJ8kqj7FQisLz0IBP9r7hW-4RysSgRZKI0BLQm46I0nn-PwKi2112FaU&usqp=CAU" width="70px" />
-
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" width="70px" />
-
-<img style="margin:10px;max-width:40px; max-height:40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGgNSPRVm39iH4cj6zG4IgW_wA6GWdxscSdCNJ43dHw&s" height="30" width="70px" />
-
-</div>
