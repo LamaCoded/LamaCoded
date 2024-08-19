@@ -1,10 +1,7 @@
  ## Hello there, I am Prajwol Lama 👋
 
-*An aspiring Web and App Developer*
+*An aspiring Web and App Developer with years of experience*
 
-<p align="left">My primary focus is on front-end web development, however, I have working knowledge of Backend technologies and languages. I have worked on Node JS and Express JS as well as PHP. I have a balanced logical and creative side, a key feature to make any web and app polished, smooth, and secure.</p>
-
-<p align="left">Not only in the web, but I have also involved myself in cross-platform app development using Flutter</p>
 </br>
 
 
